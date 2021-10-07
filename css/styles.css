@@ -1,0 +1,21 @@
+body   
+    {
+        
+        background-image: 
+            url(https://www.desktopbackground.org/download/o/2010/05/03/11638_ultra-hd-4k-google-wallpapers-hd-desktop-backgrounds-3840x2400_3840x2400_h.jpg);
+        background-size: 100%;
+
+    }
+#main-form
+    {
+        margin: 20px;
+    }
+
+#image-form
+    {
+        margin: 20px;
+    }
+#lucky-form
+    {
+        margin: 20px;
+    }
